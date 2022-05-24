@@ -16,11 +16,11 @@ II. Hướng dẫn cài đặt:
 	  
 III. Một số hình ảnh về game:
 
-![Screenshot 1](https://user-images.githubusercontent.com/100185945/170053499-deaf02b1-0103-4656-b900-dc6e4a2a760a.png)
+![srcs1](https://user-images.githubusercontent.com/100185945/170084126-dd0b747e-a2fc-4aab-b22a-03334cbe0f0d.png)
 
-![Screenshot 2](https://user-images.githubusercontent.com/100185945/170053534-748ece12-dd55-43bf-ae5b-ef62c9810235.png)
+![srcs2](https://user-images.githubusercontent.com/100185945/170084141-9a22ee49-fd9b-496b-b824-b2585dbc95b7.png)
 
-![Screenshot 3](https://user-images.githubusercontent.com/100185945/170053560-376ee1be-a262-4cf8-9eb5-a447b79f21b2.png)
+![srcs3](https://user-images.githubusercontent.com/100185945/170084152-029b3af3-d1ed-4963-bd9a-d6889803c3ed.png)
 
 IV. Mô tả chung về game:
 
