@@ -3,7 +3,7 @@ I. Thông tin chung:
 
   Sinh viên: Nguyễn An Sơn - 21020389
   
-  Bài tập lớn: Mini Golf (Lập trình nâng cao - INT2215 1)
+  Bài tập lớn: Twini Golf (Lập trình nâng cao - INT2215 1)
   
 II. Hướng dẫn cài đặt:
    Tải trực tiếp:
@@ -12,7 +12,7 @@ II. Hướng dẫn cài đặt:
     
 	  - Tải file về và giải nén 
 	  
-	  - Mở file Mini Golf vừa giải nén được, chạy file main.exe để bắt đầu trò chơi  
+	  - Mở file Twini Golf vừa giải nén được, chạy file main.exe để bắt đầu trò chơi  
 	  
 III. Một số hình ảnh về game:
 
