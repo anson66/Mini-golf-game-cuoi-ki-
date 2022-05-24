@@ -8,7 +8,7 @@ I. Thông tin chung:
 II. Hướng dẫn cài đặt:
    Tải trực tiếp:
    
-    - Truy cập link: https://drive.google.com/file/d/1IR1LXihytqWRhmoP3YE9bFTtiCInKRPV/view?usp=sharing
+    - Truy cập link: https://drive.google.com/file/d/1rPV36w7Dv8Ai6vtkKFN7JCtyAgLvEzHf/view?usp=sharing
     
 	  - Tải file về và giải nén 
 	  
