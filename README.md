@@ -8,7 +8,9 @@ II. Hướng dẫn cài đặt:
 	  - Tải file về và giải nén 
 	  - Mở file Mini Golf vừa giải nén được, chạy file main.exe để bắt đầu trò chơi  
 III. Một số hình ảnh về game:
-
+![Screenshot 1](https://user-images.githubusercontent.com/100185945/170053499-deaf02b1-0103-4656-b900-dc6e4a2a760a.png)
+![Screenshot 2](https://user-images.githubusercontent.com/100185945/170053534-748ece12-dd55-43bf-ae5b-ef62c9810235.png)
+![Screenshot 3](https://user-images.githubusercontent.com/100185945/170053560-376ee1be-a262-4cf8-9eb5-a447b79f21b2.png)
     
       
 
