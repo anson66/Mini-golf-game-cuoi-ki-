@@ -10,6 +10,10 @@ II. Hướng dẫn cài đặt:
 III. Một số hình ảnh về game:
 
 
+
+
+
+
 ![Screenshot 1](https://user-images.githubusercontent.com/100185945/170053499-deaf02b1-0103-4656-b900-dc6e4a2a760a.png)
 
 
