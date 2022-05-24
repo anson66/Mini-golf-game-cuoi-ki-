@@ -1,4 +1,4 @@
-# Mini-golf
+# Twini-golf
 I. Thông tin chung:
 
   Sinh viên: Nguyễn An Sơn - 21020389
